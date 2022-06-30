@@ -39,17 +39,7 @@ const vCard = ["BEGIN:VCARD", "VERSION:3.0"];
 vCard.push(`N:${lastName};${firstName};${middleName};;`);
 vCard.push(`FN:${names.join(" ")}`);
 
-if (userData.gender) {
-    vCard.push(`GENDER:${userData.gender}`);
-}
 
-if (userData.birthday) {
-    vCard.push(`BDAY:${userData.birthday}`);
-}
-
-if (userData.phone) {
-    vCard.push(`TEL;type=CELL;type=VOICE;type=pref:${userData.phone.value.formatted}`);
-}
 
 if (userData.socials?.facebook) {
     vCard.push(`X-SOCIALPROFILE;type=facebook.com:${userData.socials.facebook}`);
@@ -133,9 +123,7 @@ if (userData.emails) {
 const avatar = fs.readFileSync(path.resolve(`./public/${env["VUE_APP_AVATAR_SRC"]}`), {encoding: "base64"});
 vCard.push(`PHOTO;ENCODING=b;TYPE=JPEG:${avatar}`);
 
-vCard.push(`TZ:${moment.format("Z")}`);
 vCard.push(`SOURCE:${vcardLink}${env["VUE_APP_VCARD_SRC"]}`);
-vCard.push(`REV:${moment.format("YYYY-MM-DDTHH:mm:SSZ")}`);
 vCard.push("END:VCARD");
 
 fs.writeFileSync(path.resolve(`./public/${env["VUE_APP_VCARD_SRC"]}`), vCard.join("\n"));
