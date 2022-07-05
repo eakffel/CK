@@ -4,39 +4,39 @@
     "ru": "Eliza"
   },
   "middle_name": {
-    "en": "",
+    "en": "Keffeler",
     "ru": "Keffeler"
   },
   "last_name": {
-    "en": "Chekhov",
-    "ru": "Чехов"
+    "en": "Keffeler",
+    "ru": "Keffeler"
   },
-  "gender": "Male",
-  "birthday": "1990-09-27",
+  "gender": "",
+  "birthday": "",
   "phone": {
     "country": {
-      "code": "ru",
+      "code": "",
       "name": {
-        "en": "Russia",
-        "ru": "Россия"
+        "en": "",
+        "ru": ""
       }
     },
     "region": {
-      "code": "mosreg",
+      "code": "",
       "name": {
-        "en": "Moscow",
-        "ru": "Москва и Московская область"
+        "en": "",
+        "ru": ""
       }
     },
     "operator": {
-      "code": "megafon",
+      "code": "",
       "name": {
-        "en": "Megafon",
-        "ru": "Мегафон"
+        "en": "",
+        "ru": ""
       }
     },
     "messengers": {
-      "telegram": "i_red_bull",
+      "telegram": "",
       "whatsapp": true
     
   },
@@ -50,83 +50,75 @@
     "info-main@ya.ru"
   ],
   "socials": {
-    "vk": "https://vk.com/id104255315",
-    "github": "https://github.com/i-dc",
-    "facebook": "https://www.facebook.com/s0qwerty/",
-    "instagram": "https://www.instagram.com/yet_another__life/"
+    "vk": "",
+    "github": "",
+    "facebook": "",
+    "instagram": ""
   },
-  "covid": "https://immune.mos.ru/my_qr?id=7XHTH24374B7",
+  "covid": "",
   "work": {
     "remote_days": [
-      1,
-      0,
-      0,
-      0,
-      1,
-      0,
-      1
+    
     ],
-    "code": "sber",
+    "code": "",
     "name": {
-      "en": "Sberbank",
-      "ru": "Sberbank"
+      "en": "Schooley Mitchell",
+      "ru": "schooley Mitchell"
     },
     "address": {
-      "en": "Moscow, Poklonaya street, 3",
-      "ru": "Москва, Поклонная улица, 3"
+      "en": "",
+      "ru": ""
     },
     "coords": [
-      55.736179,
-      37.533194
+      
     ],
     "location": {
       "country": {
-        "code": "ru",
+        "code": "",
         "name": {
-          "en": "Russia",
-          "ru": "Российская Федерация"
+          "en": "",
+          "ru": ""
         }
       },
       "locality": {
-        "code": "moscow",
+        "code": "",
         "name": {
-          "en": "Moscow",
-          "ru": "Москва"
+          "en": "",
+          "ru": ""
         }
       },
       "street": {
         "name": {
-          "en": "Poklonaya street",
-          "ru": "Поклонная улица"
+          "en": "",
+          "ru": ""
         }
       },
       "house": {
         "name": {
-          "en": "3",
-          "ru": "дом 3"
+          "en": "",
+          "ru": ""
         }
       },
-      "zip_code": "121170",
+      "zip_code": "",
       "subway": {
-        "type": "moscow-subway",
+        "type": "",
         "name": {
-          "en": "Kutuzovskaya",
-          "ru": "Кутузовская"
+          "en": "",
+          "ru": ""
         },
         "line": {
           "color": "0099cc",
           "name": {
-            "en": "light blue line",
-            "ru": "филёвская линия"
+            "en": "",
+            "ru": ""
           },
           "city": {
-            "en": "Moscow",
-            "ru": "Москва"
+            "en": "",
+            "ru": ""
           }
         },
         "coords": [
-          55.739410,
-          37.534941
+          
         ],
         "route_link": "",
         "distance": {
@@ -138,13 +130,13 @@
     "position": {
       "icon": "star",
       "name": {
-        "en": "Frontend Developer",
-        "ru": "Frontend Developer"
+        "en": "Marketing",
+        "ru": "Marketing"
       }
     },
     "website": {
-      "en": "https://sberbank.com",
-      "ru": "https://sber.ru"
+      "en": "",
+      "ru": ""
     }
   }
 }
