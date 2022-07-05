@@ -1,12 +1,11 @@
 {
-  "timezone": "Europe/Moscow",
   "first_name": {
-    "en": "Dmitry",
-    "ru": "Дмитрий"
+    "en": "Eliza",
+    "ru": "Eliza"
   },
   "middle_name": {
-    "en": "Dmitrievich",
-    "ru": "Дмитриевич"
+    "en": "",
+    "ru": "Keffeler"
   },
   "last_name": {
     "en": "Chekhov",
@@ -39,14 +38,15 @@
     "messengers": {
       "telegram": "i_red_bull",
       "whatsapp": true
-    },
+    
+  },
     "value": {
-      "short": "79261393029",
-      "formatted": "+7 926 139-30-29"
+      "short": "+13092105493",
+      "formatted": "+1(309)210-5493"
     }
   },
   "emails": [
-    "dc@phystech.edu",
+    "Elizakeff@gmail.com",
     "info-main@ya.ru"
   ],
   "socials": {
