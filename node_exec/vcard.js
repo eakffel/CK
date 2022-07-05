@@ -120,8 +120,6 @@ if (userData.emails) {
     });
 }
 
-const avatar = fs.readFileSync(path.resolve(`./public/${env["VUE_APP_AVATAR_SRC"]}`), {encoding: "base64"});
-vCard.push(`PHOTO;ENCODING=b;TYPE=JPEG:${avatar}`);
 
 vCard.push(`SOURCE:${vcardLink}${env["VUE_APP_VCARD_SRC"]}`);
 vCard.push("END:VCARD");

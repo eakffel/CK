@@ -1,10 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Чехов;Дмитрий;Дмитриевич;;
+N:Чехов;Дмитрий;Keffeler;;
 FN:Дмитрий Дмитриевич Чехов
-GENDER:Male
-BDAY:1990-09-27
-TEL;type=CELL;type=VOICE;type=pref:+7 926 139-30-29
 X-SOCIALPROFILE;type=facebook.com:https://www.facebook.com/s0qwerty/
 item1.URL;type=pref:https://i-dc.github.io/
 item1.X-ABLabel:Vcard
@@ -15,7 +12,7 @@ item3.X-ABLabel:github
 item4.URL:https://vk.com/id104255315
 item4.X-ABLabel:vk
 ORG:Sberbank;
-TITLE:Frontend Developer
+TITLE:Marketing 
 URL:https://sber.ru
 ADR;type=WORK:;;Поклонная улица, дом 3;Москва;;121170;Российская Федерация
 GEO:55.736179,37.533194
@@ -23,7 +20,5 @@ item5.URL:https://yandex.ru/maps/?text=55.736179,37.533194
 item5.X-ABLabel:Geo
 EMAIL;type=INTERNET;type=PREF:dc@phystech.edu
 EMAIL;type=INTERNET;type=HOME:info-main@ya.ru
-TZ:+03:00
 SOURCE:https://i-dc.github.io/data/vcard.vcf
-REV:2021-12-08T15:55:14+03:00
 END:VCARD

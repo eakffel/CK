@@ -1,12 +1,22 @@
 BEGIN:VCARD
 VERSION:3.0
-N: Eliza keffeler
-TEL;type=CELL;type=VOICE;type=pref:+1(309)-210-5493
+N:Чехов;Eliza:;Keffeler;;
+FN:Eliza Keffeler
+X-SOCIALPROFILE;type=facebook.com:https://www.facebook.com/s0qwerty/
+item1.URL;type=pref:https://i-dc.github.io/
 item1.X-ABLabel:Vcard
+item2.URL:https://www.instagram.com/yet_another__life/
+item2.X-ABLabel:instagram
+item3.URL:https://github.com/i-dc
 item3.X-ABLabel:github
-item4.URL: http://www.schooleymitchell.com/keffeler
+item4.URL:https://vk.com/id104255315
+item4.X-ABLabel:vk
 ORG:Schooley Mitchell;
-TITLE: Head of Marketing
-EMAIL;type=INTERNET;type=PREF:Elizakeff@gmail.com
+TITLE:Marketing;
+URL:https://sber.ru
+item5.URL:https://yandex.ru/maps/?text=55.736179,37.533194
+item5.X-ABLabel:Geo
+EMAIL;type=INTERNET;type=PREF:Elizakeff@gmail.com;
+EMAIL;type=INTERNET;type=HOME:info-main@ya.ru
 SOURCE:https://i-dc.github.io/data/vcard.vcf
 END:VCARD
